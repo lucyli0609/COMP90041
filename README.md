@@ -1,2 +1,3 @@
 # COMP90041
-slides for tutorials
+Slides and suggested codes for tutorials of "Programming and Software Development" 2019 Semster 2.
+Please note the suggested codes are not official solutions. 
